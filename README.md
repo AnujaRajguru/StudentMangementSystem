@@ -74,7 +74,7 @@ src
 ### Clone and Run
 
 ``` bash
-git clone https://github.com/AnujaRajguru/student-management-system.git
+git clone https://github.com/AnujaRajguru/StudentMangementSystem.git
 cd student-management-system
 mvn spring-boot:run
 ```
