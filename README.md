@@ -24,6 +24,11 @@ JWT-based login for students using:
 
 Secure endpoints with token validation.
 
+**Admin credentials**
+  
+- username=admin
+- password=admin@123
+
 ---
 
 ##  Tech Stack
@@ -54,6 +59,8 @@ Secure endpoints with token validation.
 ###  H2 Database API
 
 - http://localhost:8080/h2-console
+- username=sa
+- password=pass
 
 ###  Project Structure
 
